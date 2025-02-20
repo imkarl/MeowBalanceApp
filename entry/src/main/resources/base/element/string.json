@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "轻松记账，助你开启财富自由之路！"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "喵小帐"
+    },
+    {
+      "name": "access_biometric_reason",
+      "value": "Used for login verification using biometric recognition capabilities."
+    },
+    {
+      "name": "privacy_window_reason",
+      "value": "Used to prohibit screenshots in login page scenarios."
+    },
+    {
+      "name": "internet_reason",
+      "value": "Used to prohibit screenshots in login page scenarios."
+    }
+  ]
+}
